@@ -1,4 +1,4 @@
-# Baghewala Field Intelligence
+# Well | Baghewala Field Intelligence
 
 Hackathon-ready MVP for an integrated well-to-surface digital twin focused on heavy-oil production at the Baghewala Field in Rajasthan. The application connects reservoir conditions, cyclic steam stimulation (CSS), sucker-rod pumping (SRP), production, operational alerts, and simulated optimization recommendations in one field operations workspace.
 
